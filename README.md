@@ -180,6 +180,7 @@ This project successfully demonstrates how data analytics can support strategic 
 
 - **Tools used:**
     - 🧮 **Excel** - used as it provides easy-to-use tools for organizing, calculating, visualizing, and interpreting data.
+    - 🛢️ **Sql** - used for querying, aggregating, and managing structured data efficiently in relational databases.
     - 📊 **Tableau Desktop** - Main data visualization platform used for report creation.
     - 📝 **Data Modeling** - Relationships established among tables to enable cross-filtering and aggregation.
     - 📁 **File Format** - .twb for development and .png for dashboard previews.
